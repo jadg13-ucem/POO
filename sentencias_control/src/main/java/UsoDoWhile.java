@@ -9,7 +9,7 @@ public class UsoDoWhile {
             option = sc.nextLine();
 
         }while(option.equalsIgnoreCase("no"));
-        System.out.println("Adios...");
+
 
     }
 }
